@@ -3,6 +3,7 @@ Name: Arsal Mairaj
 Roll No.: 21i-1520
 
 📌 Project Overview
+
 This project explores different optimization techniques for training a Linear Regression model using Gradient Descent. It compares Stochastic Gradient Descent (SGD), Mini-batch Gradient Descent, and Batch Gradient Descent, while analyzing the impact of learning rate and momentum on convergence.
 
 ✨ Features
